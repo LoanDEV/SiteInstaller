@@ -23,4 +23,4 @@ mkdir /home/web/logs/$domain
 a2ensite $domain.conf
 sleep 1
 service apache2 reload
-echo "Done !"
+echo "Done ! Check your domain :D"
